@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xiaoda Wang, a student who majoring in CyberSecurity at Department of Cyber Science and Engineering, Sichuan University (Chengdu, China). Currently, I am in AI-System Lab, under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/). 
+I am Xiaoda Wang, a fourth-year undergraduate student majoring in CyberSecurity at Department of Cyber Science and Engineering, Sichuan University (Chengdu, China). Currently, I am in AI-System Lab, under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/). 
 
-I am also in strong collaboration with AntGroup AI Infrastructure Department([AI Infra](https://hk.linkedin.com/company/antgroup)), and my mentor at AI Infra is Qinglong Wang.
+I am now a maintainer of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
 
-I am now a maintainer of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Managing Workflows on different workflow engines. We are looking for contributors to help us optimize our system. If you're interested, please drop me an email!😁.
+In addition, I work with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on Graph Neural Networks and Large Language Models.
+
+Previously, I worked with [Prof. Haizhou Wang](http://www.cyber-wang.cn/) on Fake Information Detection. 
 
 I have a broad interest in many topics in Artificial Intelligence, including Graph Learning, Machine Learning, Data Mining, AI Security, Large Language Model.
 
@@ -33,13 +35,13 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI infra</div><img src='images/dlrover-auto-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Design to Auto-Tuning Hyperparameters with DLRover](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/design/autotuing-design.md)
+[Couler: Unified Machine Learning Workflow Optimization in Cloud](https://github.com/couler-proj/couler)
 
-[**Features**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Features**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Real-time Adaptive Batch Size Configuration in No-Stop Manner. 
 - Real-time Learning Rate Configuration.
 </div>
-</div>
+</div> -->
 
 - *2023.09*: &nbsp;🎉🎉 I received an invitation for a research internship at AI Infra.
 - *2023.08*: &nbsp;🎉🎉 DLRover's technical practices in ensuring stability for thousand-card scale large model training on Kubernetes (K8s). [Technical Report](https://my.oschina.net/u/6537811/blog/10092541)
