@@ -1,4 +1,4 @@
-![image](https://github.com/ignite-abd/ignite-abd.github.io/assets/91377391/285e06fb-f480-4748-8cff-3d7f667fd0db)---
+---
 permalink: /
 title: ""
 excerpt: ""
