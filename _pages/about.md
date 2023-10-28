@@ -46,23 +46,34 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 - *2023.10*: &nbsp;🎉🎉 Release Couler's technical practices on Unified Machine Learning Workflow Optimization in Cloud: [Technical Report](https://github.com/ignite-abd/Technical-Report-of-Couler)
 - *2023.06*: &nbsp;🎉🎉 Collaborating with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on research related to Large Language Models and Graph Neural Networks.
 - *2023.06*: &nbsp;🎉🎉 Paper accepted by 32nd International Conference on Artificial Neural Networks (ICANN 2023)!
-- *2022.12*: &nbsp;🎉🎉 Joining [Prof. Mingjie Tang](http://merlintang.github.io/)’s AI-System lab from Dec 2022 at School of Computer Science, Sichuan University!
+- *2022.10*: &nbsp;🎉🎉 Joining [Prof. Mingjie Tang](http://merlintang.github.io/)’s AI-System lab from Dec 2022 at School of Computer Science, Sichuan University!
 - *2022.06*: &nbsp;🎉🎉 Joining [Prof. Haizhou Wang](http://www.cyber-wang.cn/)’s research lab on fake information detection from Jun 2022 at School of Cyber Science and Engineering, Sichuan University!
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Bachelor of CyberSecurity, Department of Cyber Science and Engineering, Sichuan University, Chengdu, China
 
 # 💻 Experiences
-- *2023.09 - Now*, AntGroup, [AI Infra Group](https://hk.linkedin.com/company/antgroup), China.
-- *2023.06 - 2023.09*, Institute of Software Chinese Academy of Sciences OSPP, [DLRover](https://github.com/intelligent-machine-learning/dlrover), China
-- *2023.03 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China.
-- *2022.05 - 2023.02*, Sichuan University, [Prof. Yanbing Yang](https://scholar.google.com/citations?user=qpLuOggAAAAJ), China.
+- *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US
+- *2023.01 - 2023.02*, University of Cambridge, Innovation and Interdisciplinary Research Programme, UK
+- *2022.10 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China.
+- *2022.06 - 2023.04*, Sichuan University, [Prof. Haizhou Wang](http://www.cyber-wang.cn/), China.
 
 # 🎖 Honors and Awards
-- *2023.10*, [DLRover](https://github.com/intelligent-machine-learning/dlrover): An Automatic Distributed Deep Learning System, **Top 3 Contributor**.
-- *2023.04*, Huawei Inteligent Center, Star of Future Award. @Huawei
-- *2022.09*, Microsoft Edge Explorator Developer Competition, Star of Tomorrow Award(Top 10). @Microsoft
-- *2021.08*, Sichuan University First Class Scholarship @SCU
-- *2020.09*, National Endeavor Scholarship @National Ministry of Education
+- Excellent Student Cadre Award, Sichuan University, 2022
+- Outstanding Student Award, Sichuan University, 2021, 2022, 2023
+- Second-Class Comprehensive Scholarship, Sichuan University, 2022, 2023
+- Third Prize Winner, China Undergraduate Mathematical Contest in Modeling, 2022
+- First Prize Winner, Chinese Physics Olympiad (CPHO), 2019
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/model.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BGEK: External Knowledge-enhanced Graph Convolutional Networks for Rumor Detection in Online Social Networks](https://dl.acm.org/doi/abs/10.1007/978-3-031-44216-2_24)
+
+**Xiaoda Wang**, Chenxiang Luo, Tengda Guo, Zhangrui Liu, Jiongyan Zhang, and Haizhou Wang,
+
+The 32nd International Conference on Artificial Neural Networks (ICANN 2023).
+
+
+
