@@ -19,11 +19,11 @@ redirect_from:
 
 I am Xiaoda Wang, a fourth-year undergraduate student majoring in CyberSecurity at Department of Cyber Science and Engineering, Sichuan University (Chengdu, China). Currently, I am in AI-System Lab, under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/). 
 
-I am now a maintainer of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
-
 In addition, I work with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on Graph Neural Networks and Large Language Models.
 
 Previously, I worked with [Prof. Haizhou Wang](http://www.cyber-wang.cn/) on Fake Information Detection. 
+
+I am now a maintainer of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
 
 I have a broad interest in many topics in Artificial Intelligence, including Graph Learning, Machine Learning, Data Mining, AI Security, Large Language Model.
 
@@ -43,12 +43,14 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 </div>
 </div>-->
 
-- *2023.09*: &nbsp;🎉🎉 I received an invitation for a research internship at AI Infra.
-- *2023.08*: &nbsp;🎉🎉 DLRover's technical practices in ensuring stability for thousand-card scale large model training on Kubernetes (K8s). [Technical Report](https://my.oschina.net/u/6537811/blog/10092541)
-- *2023.06*: &nbsp;🎉🎉 Start open source project contribution in [OSPP](https://summer-ospp.ac.cn/).
+- *2023.10*: &nbsp;🎉🎉 Release Couler's technical practices on Unified Machine Learning Workflow Optimization in Cloud: [Technical Report](https://github.com/ignite-abd/Technical-Report-of-Couler)
+- *2023.06*: &nbsp;🎉🎉 Collaborating with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on research related to Large Language Models and Graph Neural Networks.
+- *2023.06*: &nbsp;🎉🎉 Paper accepted by 32nd International Conference on Artificial Neural Networks (ICANN 2023)!
+- *2022.12*: &nbsp;🎉🎉 Joining [Prof. Mingjie Tang](http://merlintang.github.io/)’s AI-System lab from Dec 2022 at School of Computer Science, Sichuan University!
+- *2022.06*: &nbsp;🎉🎉 Joining [Prof. Haizhou Wang](http://www.cyber-wang.cn/)’s research lab on fake information detection from Jun 2022 at School of Cyber Science and Engineering, Sichuan University!
 
 # 📖 Educations
-- *2020.09 - Now*, Bachelor of Computer Science, Department of Computer Science, Sichuan University, Chengdu, China
+- *2020.09 - 2024.06*, Bachelor of CyberSecurity, Department of Cyber Science and Engineering, Sichuan University, Chengdu, China
 
 # 💻 Experiences
 - *2023.09 - Now*, AntGroup, [AI Infra Group](https://hk.linkedin.com/company/antgroup), China.
