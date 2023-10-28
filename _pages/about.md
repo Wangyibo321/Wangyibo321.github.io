@@ -66,6 +66,15 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 - First Prize Winner, Chinese Physics Olympiad (CPHO), 2019
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AnomDet: Dynamic Address-Transaction Graph Neural Networks for Enhanced Blockchain Anomaly Detection]()
+
+**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
+
+In submission, International World Wide Web Conferences (WWW 2024).
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/model_couler.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
