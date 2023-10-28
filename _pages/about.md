@@ -52,19 +52,6 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 # 📖 Educations
 - *2020.09 - 2024.06*, Bachelor of CyberSecurity, Department of Cyber Science and Engineering, Sichuan University, Chengdu, China
 
-# 💻 Experiences
-- *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US
-- *2023.01 - 2023.02*, University of Cambridge, Innovation and Interdisciplinary Research Programme, UK
-- *2022.10 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China.
-- *2022.06 - 2023.04*, Sichuan University, [Prof. Haizhou Wang](http://www.cyber-wang.cn/), China.
-
-# 🎖 Honors and Awards
-- Excellent Student Cadre Award, Sichuan University, 2022
-- Outstanding Student Award, Sichuan University, 2021, 2022, 2023
-- Second-Class Comprehensive Scholarship, Sichuan University, 2022, 2023
-- Third Prize Winner, China Undergraduate Mathematical Contest in Modeling, 2022
-- First Prize Winner, Chinese Physics Olympiad (CPHO), 2019
-
 # 📝 Publications
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -169,4 +156,19 @@ Yifei Jian, Xinyu Chen, **Xiaoda Wang**, Ying Liu, Xingshu Chen, Xiao Lan, Wenxi
 Information Processing and Management (IPM 2023).
   </div>
 </div>
+
+# 💻 Experiences
+- *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US
+- *2023.01 - 2023.02*, University of Cambridge, Innovation and Interdisciplinary Research Programme, UK
+- *2022.10 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China.
+- *2022.06 - 2023.04*, Sichuan University, [Prof. Haizhou Wang](http://www.cyber-wang.cn/), China.
+
+# 🎖 Honors and Awards
+- Excellent Student Cadre Award, Sichuan University, 2022
+- Outstanding Student Award, Sichuan University, 2021, 2022, 2023
+- Second-Class Comprehensive Scholarship, Sichuan University, 2022, 2023
+- Third Prize Winner, China Undergraduate Mathematical Contest in Modeling, 2022
+- First Prize Winner, Chinese Physics Olympiad (CPHO), 2019
+
+
 
