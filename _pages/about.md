@@ -66,7 +66,7 @@ I have a broad interest in many topics in Artificial Intelligence, including Gra
 - First Prize Winner, Chinese Physics Olympiad (CPHO), 2019
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BGEK: External Knowledge-enhanced Graph Convolutional Networks for Rumor Detection in Online Social Networks](https://dl.acm.org/doi/abs/10.1007/978-3-031-44216-2_24)
