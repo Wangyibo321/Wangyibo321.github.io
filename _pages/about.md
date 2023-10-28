@@ -153,7 +153,7 @@ The 32nd International Conference on Artificial Neural Networks (ICANN 2023).
 
 Yifei Jian, Xinyu Chen, **Xiaoda Wang**, Ying Liu, Xingshu Chen, Xiao Lan, Wenxian Wang, and Haizhou Wang
 
-Information Processing and Management (IPM 2023).
+In submission, Information Processing and Management (IPM 2023).
   </div>
 </div>
 
