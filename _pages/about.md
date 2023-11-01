@@ -158,7 +158,7 @@ In submission, Information Processing and Management (IPM 2023).
 </div>
 
 # 💻 Experiences
-- *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US
+<!-- - *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US -->
 - *2023.01 - 2023.02*, University of Cambridge, Innovation and Interdisciplinary Research Programme, UK
 - *2022.10 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China.
 - *2022.06 - 2023.04*, Sichuan University, [Prof. Haizhou Wang](http://www.cyber-wang.cn/), China.
