@@ -25,7 +25,11 @@ Previously, I worked with [Prof. Haizhou Wang](http://www.cyber-wang.cn/) on Fak
 
 I am now a contributor of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
 
-I have a broad interest in many topics in Artificial Intelligence, including Graph Learning, Machine Learning, Data Mining, AI Security, Large Language Model.
+
+My principal research interests are generally in **Data Mining**, **Graph Neural Networks**, **Large Language Models**, **Machine learning System**, and **AI Security**.
+My ultimate goal is to drive meaningful advancements in research that have a tangible impact on real-world applications.
+
+I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program. 
 
 *Email*: *awangxiaoda[AT]gmail[DOT]com*
 
