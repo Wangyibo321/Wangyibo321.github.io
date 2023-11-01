@@ -160,8 +160,9 @@ In submission, Information Processing and Management (IPM 2023).
 
 [**Contributions**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Real-time Adaptive Batch Size Configuration in No-Stop Manner.
-- Real-time Learning Rate Configuration.
+- Developed a plug-and-play prompting approach to elicit a graph-of-thoughts question-answering capability in Large Language Models.
+- Introduced a pruning method based on GNN and Contrastive Learning to retrieve the most relevant subgraph from the Knowledge graph.
+- Proposed a graph-to-text conversion technique to enhance understanding of graph structures and implemented self-calibration to improve the confidence scores.
 
 # 💻 Experiences
 <!-- - *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US -->
