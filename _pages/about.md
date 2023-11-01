@@ -158,7 +158,7 @@ In submission, Information Processing and Management (IPM 2023).
 
 **Xiaoda Wang**, Tengda Guo, Chenhui Hu, Zhaoyi Liu, Mingjie Tang, and Carl Yang
 
-[**Contributions**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Contributions**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - Developed a plug-and-play prompting approach to elicit a graph-of-thoughts question-answering capability in Large Language Models.
 - Introduced a pruning method based on GNN and Contrastive Learning to retrieve the most relevant subgraph from the Knowledge graph.
