@@ -36,17 +36,6 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 
 
 # 🔥 News
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI infra</div><img src='images/dlrover-auto-tuning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Couler: Unified Machine Learning Workflow Optimization in Cloud](https://github.com/couler-proj/couler) -->
-
-<!-- [**Features**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Real-time Adaptive Batch Size Configuration in No-Stop Manner. 
-- Real-time Learning Rate Configuration.
-</div>
-</div>-->
-
 - *2023.10*: &nbsp;🎉🎉 Release Couler's technical practices on Unified Machine Learning Workflow Optimization in Cloud: [Technical Report](https://github.com/ignite-abd/Technical-Report-of-Couler)
 - *2023.06*: &nbsp;🎉🎉 Collaborating with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on research related to Large Language Models and Graph Neural Networks.
 - *2023.06*: &nbsp;🎉🎉 Paper accepted by 32nd International Conference on Artificial Neural Networks (ICANN 2023)!
@@ -160,6 +149,19 @@ Yifei Jian, Xinyu Chen, **Xiaoda Wang**, Ying Liu, Xingshu Chen, Xiao Lan, Wenxi
 In submission, Information Processing and Management (IPM 2023).
   </div>
 </div>
+
+# 📝 Research
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+[Enhancing Large Language Models with Knowledge Graphs and Graph Neural Networks]()
+
+**Xiaoda Wang**, Tengda Guo, Chenhui Hu, Zhaoyi Liu, Mingjie Tang, and Carl Yang
+
+[**Contributions**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Real-time Adaptive Batch Size Configuration in No-Stop Manner.
+- Real-time Learning Rate Configuration.
 
 # 💻 Experiences
 <!-- - *2023.06 - Now*, Emory University, [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/), US -->
