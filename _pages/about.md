@@ -19,11 +19,11 @@ redirect_from:
 
 I am Xiaoda Wang, a fourth-year undergraduate student majoring in CyberSecurity at Department of Cyber Science and Engineering, Sichuan University (Chengdu, China). Currently, I am in AI-System Lab, under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/). 
 
-In addition, I work with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on Graph Neural Networks and Large Language Models.
+<!--In addition, I work with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on Graph Neural Networks and Large Language Models.-->
 
 Previously, I worked with [Prof. Haizhou Wang](http://www.cyber-wang.cn/) on Fake Information Detection. 
 
-I am now a maintainer of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
+I am now a contributor of [Couler](https://github.com/couler-proj/couler), an Unified Interface for Constructing and Optimizing Workflows on different workflow engines. If you're interested, please drop me an email!😁.
 
 I have a broad interest in many topics in Artificial Intelligence, including Graph Learning, Machine Learning, Data Mining, AI Security, Large Language Model.
 
