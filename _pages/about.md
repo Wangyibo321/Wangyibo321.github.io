@@ -95,7 +95,7 @@ Information Processing and Management (IPM 2023). -->
 
 **Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
 
-In submission, International World Wide Web Conferences (WWW 2024).
+In Submission, International World Wide Web Conferences (WWW 2024).
   </div>
 </div>
 
@@ -112,7 +112,7 @@ In submission, International World Wide Web Conferences (WWW 2024).
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-In submission, International Conference on Data Engineering (ICDE 2024).
+Under Revision, International Conference on Data Engineering (ICDE 2024).
   </div>
 </div>
 
