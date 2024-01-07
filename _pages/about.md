@@ -53,7 +53,7 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 
 **Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
 
-In submission, International World Wide Web Conferences (WWW 2024).
+In Submission, International World Wide Web Conferences (WWW 2024).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/model_couler.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ In submission, International World Wide Web Conferences (WWW 2024).
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-Under revision, International Conference on Data Engineering (ICDE 2024).
+Under Revision, International Conference on Data Engineering (ICDE 2024).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
