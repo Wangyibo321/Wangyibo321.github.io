@@ -62,7 +62,7 @@ In submission, International World Wide Web Conferences (WWW 2024).
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-In submission, International Conference on Data Engineering (ICDE 2024).
+Under revision, International Conference on Data Engineering (ICDE 2024).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
