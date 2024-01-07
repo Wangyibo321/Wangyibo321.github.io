@@ -36,6 +36,7 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 My paper "Couler: Unified Machine Learning Workflow Optimization in Cloud" is now under revision for ICDE 2024!
 - *2023.10*: &nbsp;🎉🎉 Release Couler's technical practices on Unified Machine Learning Workflow Optimization in Cloud: [Technical Report](https://github.com/ignite-abd/Technical-Report-of-Couler)
 - *2023.06*: &nbsp;🎉🎉 Collaborating with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on research related to Large Language Models and Graph Neural Networks.
 - *2023.06*: &nbsp;🎉🎉 Paper accepted by 32nd International Conference on Artificial Neural Networks (ICANN 2023)!
