@@ -79,7 +79,7 @@ International Conference on Data Engineering (ICDE 2024).
 
 **Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
 
-In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2023).
+In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2024).
   </div>
 </div>
 
