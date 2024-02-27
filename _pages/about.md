@@ -36,6 +36,7 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 My paper "Couler: Unified Machine Learning Workflow Optimization in Cloud" got accepted by ICDE 2024!
 - *2024.01*: &nbsp;🎉🎉 My paper "Couler: Unified Machine Learning Workflow Optimization in Cloud" is now under revision for ICDE 2024!
 - *2023.10*: &nbsp;🎉🎉 Release Couler's technical practices on Unified Machine Learning Workflow Optimization in Cloud: [Technical Report](https://github.com/ignite-abd/Technical-Report-of-Couler)
 - *2023.06*: &nbsp;🎉🎉 Collaborating with [Prof. Carl Yang](https://www.cs.emory.edu/~jyang71/) on research related to Large Language Models and Graph Neural Networks.
@@ -47,23 +48,23 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 - *2020.09 - 2024.06*, Bachelor of CyberSecurity, Department of Cyber Science and Engineering, Sichuan University, Chengdu, China
 
 # 📝 Publications
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AnomDet: Dynamic Address-Transaction Graph Neural Networks for Enhanced Blockchain Anomaly Detection]()
-
-**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
-
-In Submission, International World Wide Web Conferences (WWW 2024).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/model_couler.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/model_couler.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Couler: Unified Machine Learning Workflow Optimization in Cloud](https://github.com/couler-proj/couler)
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-Under Revision, International Conference on Data Engineering (ICDE 2024).
+International Conference on Data Engineering (ICDE 2024).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BadDet: Blockchain Fraud Detection with Dynamic Address-Transaction Graph Convolutional Networks]()
+
+**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
+
+In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2023).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
