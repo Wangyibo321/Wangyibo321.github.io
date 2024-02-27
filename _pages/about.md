@@ -87,23 +87,6 @@ Information Processing and Management (IPM 2023). -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">WWW 2024</div>
-      <img src='images/model_bitcoin.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    
-[AnomDet: Dynamic Address-Transaction Graph Neural Networks for Enhanced Blockchain Anomaly Detection]()
-
-**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
-
-In Submission, International World Wide Web Conferences (WWW 2024).
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">ICDE 2024</div>
       <img src='images/model_couler.png' alt="sym" width="100%">
     </div>
@@ -114,7 +97,24 @@ In Submission, International World Wide Web Conferences (WWW 2024).
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-Under Revision, International Conference on Data Engineering (ICDE 2024).
+International Conference on Data Engineering (ICDE 2024).
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2024</div>
+      <img src='images/model_bitcoin.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+[BadDet: Blockchain Fraud Detection with Dynamic Address-Transaction Graph Convolutional Networks]()
+
+**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
+
+In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2023).
   </div>
 </div>
 
@@ -148,7 +148,7 @@ The 32nd International Conference on Artificial Neural Networks (ICANN 2023).
 
 Yifei Jian, Xinyu Chen, **Xiaoda Wang**, Ying Liu, Xingshu Chen, Xiao Lan, Wenxian Wang, and Haizhou Wang
 
-In submission, Information Processing and Management (IPM 2023).
+Under Revision, Neural Computing and Applications (NCAA 2023).
   </div>
 </div>
 
