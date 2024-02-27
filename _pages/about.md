@@ -62,7 +62,7 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 
 **Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
 
-International Conference on Data Engineering (ICDE 2024).
+IEEE International Conference on Data Engineering (ICDE 2024).
   </div>
 </div>
 
@@ -79,7 +79,7 @@ International Conference on Data Engineering (ICDE 2024).
 
 **Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
 
-In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2024).
+In Submission, ACM International Conference on Knowledge Discovery and Data Mining (KDD 2024).
   </div>
 </div>
 
