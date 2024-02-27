@@ -48,41 +48,6 @@ I am a highly motivated and passionate undergraduate eagerly seeking admission t
 - *2020.09 - 2024.06*, Bachelor of CyberSecurity, Department of Cyber Science and Engineering, Sichuan University, Chengdu, China
 
 # 📝 Publications
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/model_couler.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Couler: Unified Machine Learning Workflow Optimization in Cloud](https://github.com/couler-proj/couler)
-
-**Xiaoda Wang**, Yuan Tang, Tengda Guo, Bo Sang, Jingji Wu, Jian Sha, Ke Zhang, Jiang Qian, Mingjie Tang
-
-International Conference on Data Engineering (ICDE 2024).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BadDet: Blockchain Fraud Detection with Dynamic Address-Transaction Graph Convolutional Networks]()
-
-**Xiaoda Wang**, Zhaoyi Liu, Tengda Guo, Zhiyuan Cheng, Carl Yang and Mingjie Tang
-
-In Submission, Proceedings of the ACM International Conference on Knowledge Discovery and Data Mining (KDD 2023).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/model_bgek.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BGEK: External Knowledge-enhanced Graph Convolutional Networks for Rumor Detection in Online Social Networks](https://dl.acm.org/doi/abs/10.1007/978-3-031-44216-2_24)
-
-**Xiaoda Wang**, Chenxiang Luo, Tengda Guo, Zhangrui Liu, Jiongyan Zhang, and Haizhou Wang
-
-The 32nd International Conference on Artificial Neural Networks (ICANN 2023).
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM 2023</div><img src='images/model_fakereview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Metadata-aware Detection Model for Fake Restaurant Reviews based on Multimodal Fusion]()
-
-Yifei Jian, Xinyu Chen, **Xiaoda Wang**, Ying Liu, Xingshu Chen, Xiao Lan, Wenxian Wang, and Haizhou Wang
-
-Information Processing and Management (IPM 2023). -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -104,7 +69,7 @@ International Conference on Data Engineering (ICDE 2024).
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">WWW 2024</div>
+      <div class="badge">KDD 2024</div>
       <img src='images/model_bitcoin.png' alt="sym" width="100%">
     </div>
   </div>
@@ -138,7 +103,7 @@ The 32nd International Conference on Artificial Neural Networks (ICANN 2023).
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IPM 2023</div>
+      <div class="badge">NCAA 2023</div>
       <img src='images/model_fakereview.jpg' alt="sym" width="100%">
     </div>
   </div>
