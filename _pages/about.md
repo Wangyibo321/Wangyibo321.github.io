@@ -82,8 +82,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>LLM-Powered Interactive Tool to Explore and Exploit Domain Insights </strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i>
-</div>
+    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
@@ -92,10 +91,15 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
       <div style="float: right;font-size: 16px"><i>Jan. 2024 – Jan. 2024</i></div>
 </div>
 
+- Engaged users to probe into the ingenious LLM-powered pipeline which refines and unifies heterogeneous knowledge to guide system optimization.
+- Unleashed the potential of everyday users, enabling them to delve into the nuances of knob features and maximize the efficiency of their tailored DBMS seamlessly.
+- Empowered DBAs to supercharge GPTuner with their priceless tuning expertise expressed in natural language and witness how it can be customized to the Coarse-to-Fine Optimization Framework.
+- Outcomes: a demo paper submitted to **SIGMOD** 2024, and an open-source project with more than **3000 views, 200 clones and 50 stars** on GitHub.
+
+
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i>
-</div>
+    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
       <i>Advisors: Prof. Jianguo Wang (Purdue); Prof. Mingjie Tang (SCU) </i>
@@ -103,11 +107,14 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
     <div style="float: right;font-size: 16px"><i>Sept. 2023 – Feb. 2024</i></div>
 </div>
 
+- Designed and implemented **GPTuner**, a novel manual-reading database tuning system that automatically exploits domain knowledge to enhance the knob tuning process.
+- Developed a LLM-based data pipeline, a prompt ensemble algorithm, a workload-aware and training-free knob selection strategy, and a Coarse-to-Fine Bayesian Optimization Framework. 
+- Evaluated **GPTuner** under different benchmarks, metrics and DBMS. It identifies better configurations **16x** faster and achieves **30\%** performance improvement over the **best-performing** alternative.
+
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i>
-</div>
+    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
       <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup)</i>
@@ -115,4 +122,6 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
     <div style="float: right;font-size: 16px"><i>Aug. 2023 – Sept. 2023</i></div>
 </div>
 
-
+- Collaborated with AntGroup to develop an automated optimization system for Flink, reducing resource consumption to cope with tight budget while maintaining SLA adherence.
+- Proposed a rule-based method to get pod features based on the degree of parallelism of vertexes.
+- Implemented an ML-based evaluator to estimate resource utilization of a pod given its features.
