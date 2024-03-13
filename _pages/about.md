@@ -23,9 +23,9 @@ My research interests lie in the intersection of database management systems (DB
 
 My aim is to make significant contributions to the field of self-driving DBMS through advanced research and collaborative efforts.
 
-I am a highly self-motivated undergraduate eagerly seeking admission to *a Ph.D. program*.
+I am a highly self-motivated undergraduate eagerly seeking admission to **a Ph.D. program**.
 
-*Email*: *wangyibo2[AT]stu[DOT]scu[DOT]edu[DOT]cn*
+*Email*: *wangyibo2@stu.scu.edu.cn*
 
 
 
@@ -37,7 +37,7 @@ I am a highly self-motivated undergraduate eagerly seeking admission to *a Ph.D.
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor of Computer Science, College of Computer Science, Sichuan University, Chengdu, China
 
-# 📝  Publications
+# 📝 Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
