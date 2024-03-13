@@ -39,15 +39,18 @@ I am a highly self-motivated undergraduate eagerly seeking admission to *a Ph.D.
 
 # 📝 Selected Publications
 
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge"><embed src="images/gptuner.pdf" type="application/pdf" width="100%" height="600px" /></div>
-      
+      <div class="badge">VLDB 2024</div>
+      <img src='images/gptuner.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    
+
 [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://arxiv.org/abs/2311.03157)
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
