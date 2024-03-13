@@ -78,7 +78,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 </div>
 
 
-# 📝 Research Experiences
+# 📝 Research
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>LLM-Powered Interactive Tool to Explore and Exploit Domain Insights </strong> </div>
