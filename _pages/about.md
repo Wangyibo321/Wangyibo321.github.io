@@ -66,10 +66,10 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
   </font>
 </div>
 <div style="overflow: hidden;">
-    <div style="float: left;font-size: 8px">
+    <div style="float: left;font-size: 12px">
       <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);</i>
     </div>
-    <div style="float: right;font-size: 29px">
+    <div style="float: right;font-size: 15px">
       <i><strong>Research Asistant</strong></i>
     </div>
 
