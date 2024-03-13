@@ -62,8 +62,10 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 
 # 📝 Research Experiences
 <div style="overflow: hidden;">
+  <font size=5>
     <div style="float: left;"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
     <div style="float: right;"><strong>Aug. 2023 – Sept. 2023</strong></div>
+  </font>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;"><i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);</i></div>
