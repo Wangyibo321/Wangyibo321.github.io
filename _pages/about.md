@@ -42,10 +42,8 @@ I am a highly self-motivated undergraduate eagerly seeking admission to *a Ph.D.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">VLDB 2024</div>
-
-      <embed src="images/gptuner.pdf" type="application/pdf" width="100%" height="600px" />
-
+      <div class="badge"><embed src="images/gptuner.pdf" type="application/pdf" width="100%" height="600px" /></div>
+      
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
