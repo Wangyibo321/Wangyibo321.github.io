@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Experiences"
-    url: "/#-experiences"
+  # - title: "Experiences"
+  #   url: "/#-experiences"
 
   - title: "Resume"
     url: "/assets/CV_Yibo_Wang.pdf"  # Replace with the actual URL to your PDF file
