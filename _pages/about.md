@@ -43,7 +43,7 @@ I am a highly self-motivated undergraduate eagerly seeking admission to **a Ph.D
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">VLDB 2024, Under Revision</div> -->
-      <img src='images/gptuner.png' alt="sym" width="100%">
+      <!-- <img src='images/gptuner.png' alt="sym" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -54,12 +54,12 @@ Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, W
 
 Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 
-
-<!-- <div class='paper-box'>
+<!-- 
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <!-- <div class="badge">SIGMOD 2024, Under Revision</div> -->
-      <!-- <img src='images/demo.png' alt="sym" width="100%"> -->
+      <div class="badge">SIGMOD 2024, Under Revision</div> -->
+      <!-- <img src='images/demo.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
