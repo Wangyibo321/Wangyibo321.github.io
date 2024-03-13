@@ -99,7 +99,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
+    <div style="float: right;font-size: 18px"><i><strong>Research Assistant</strong></i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
@@ -115,7 +115,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
+    <div style="float: right;font-size: 18px"><i><strong>Research Assistant</strong></i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
