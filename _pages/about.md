@@ -102,7 +102,6 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 </div>
 
 
-
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 22px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
     <div style="float: right;font-size: 19px"><i>Aug. 2023 – Sept. 2023</i></div>
@@ -115,31 +114,5 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
       <i><strong>Research Asistant</strong></i>
     </div>
 </div>
-
-
-
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-
-
-<!-- [**Contributions**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-<!-- - Developed a plug-and-play prompting approach to elicit a graph-of-thoughts question-answering capability in Large Language Models.
-- Introduced a pruning method based on GNN and Contrastive Learning to retrieve the most relevant subgraph from the Knowledge graph.
-- Proposed a graph-to-text conversion technique to enhance understanding of graph structures and implemented self-calibration to improve the confidence scores. -->
-
-<!-- # 💻 Experiences -->
-<!-- - *2023.01 - 2023.02*, University of Cambridge, Innovation and Interdisciplinary Research Programme, UK -->
-<!-- - *2023.07 - Now*, Sichuan University, [Prof. Mingjie Tang](http://merlintang.github.io/), China. -->
-
-
-<!-- # 🎖 Honors and Awards
-- Excellent Student Cadre Award, Sichuan University, 2022
-- Outstanding Student Award, Sichuan University, 2021, 2022, 2023
-- Second-Class Comprehensive Scholarship, Sichuan University, 2022, 2023
-- Third Prize Winner, China Undergraduate Mathematical Contest in Modeling, 2022
-- First Prize Winner, Chinese Physics Olympiad (CPHO), 2019 -->
-
 
 
