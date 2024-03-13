@@ -59,12 +59,8 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 
 # 📝 Research Experiences
 <div style="overflow: hidden;">
-  <font size=4>
-    <div style="float: left;"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
-  </font>
-  <font size=3>
-    <div style="float: right;"><i>Aug. 2023 – Sept. 2023</i></div>
-  </font>
+    <div style="float: left;font-size: 22px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
+    <div style="float: right;font-size: 19px"><i>Aug. 2023 – Sept. 2023</i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
@@ -73,7 +69,6 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
     <div style="float: right;font-size: 18px">
       <i><strong>Research Asistant</strong></i>
     </div>
-
 </div>
 
 
