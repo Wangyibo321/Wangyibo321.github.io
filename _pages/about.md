@@ -58,18 +58,34 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 
 
 # 📝 Research Experiences
+
+<div style="overflow: hidden;">
+    <div style="float: left;font-size: 22px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
+    <div style="float: right;font-size: 19px"><i>Sept. 2023 – Jan. 2024</i></div>
+</div>
+<div style="overflow: hidden;">
+    <div style="float: left;font-size: 15px">
+      <i>Advisors: Prof. Jianguo Wang (Purdue); Prof. Mingjie Tang (SCU) </i>
+    </div>
+    <div style="float: right;font-size: 18px">
+      <i><strong>Research Asistant</strong></i>
+    </div>
+</div>
+
+
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 22px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
     <div style="float: right;font-size: 19px"><i>Aug. 2023 – Sept. 2023</i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
-      <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);</i>
+      <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup)</i>
     </div>
     <div style="float: right;font-size: 18px">
       <i><strong>Research Asistant</strong></i>
     </div>
 </div>
+
 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/model_bitcoin.png' alt="sym" width="100%"></div></div>
