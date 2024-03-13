@@ -42,7 +42,7 @@ I am a highly self-motivated undergraduate eagerly seeking admission to **a Ph.D
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">VLDB 2024</div>
+      <div class="badge">VLDB 2024 Under Revision</div>
       <img src='images/gptuner.png' alt="sym" width="100%">
     </div>
   </div>
@@ -53,6 +53,22 @@ I am a highly self-motivated undergraduate eagerly seeking admission to **a Ph.D
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SIGMOD 2024 Under Revision</div>
+      <img src='images/demo.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System](https://www.youtube.com/watch?v=Hz5Zck-9TlA)
+
+Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
+
+Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
   </div>
 </div>
 
@@ -60,8 +76,21 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 # 📝 Research Experiences
 
 <div style="overflow: hidden;">
+    <div style="float: left;font-size: 22px"><strong>LLM-Powered Interactive Tool to Explore and Exploit Domain Insights </strong> </div>
+    <div style="float: right;font-size: 19px"><i>Jan. 2024 – Jan. 2024</i></div>
+</div>
+<div style="overflow: hidden;">
+    <div style="float: left;font-size: 15px">
+      <i>Advisors: Prof. Jianguo Wang (Purdue); Prof. Mingjie Tang (SCU)</i>
+    </div>
+    <div style="float: right;font-size: 18px">
+      <i><strong>Research Asistant</strong></i>
+    </div>
+</div>
+
+<div style="overflow: hidden;">
     <div style="float: left;font-size: 22px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
-    <div style="float: right;font-size: 19px"><i>Sept. 2023 – Jan. 2024</i></div>
+    <div style="float: right;font-size: 19px"><i>Sept. 2023 – Feb. 2024</i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
@@ -71,6 +100,7 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
       <i><strong>Research Asistant</strong></i>
     </div>
 </div>
+
 
 
 <div style="overflow: hidden;">
