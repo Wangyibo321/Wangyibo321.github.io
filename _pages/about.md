@@ -91,9 +91,6 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
     </div>
       <div style="float: right;font-size: 16px"><i>Jan. 2024 – Jan. 2024</i></div>
 </div>
-<div style="float: right;font-size: 18px">
-  <i><strong>Research Assistant</strong></i>
-</div>
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
