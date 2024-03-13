@@ -42,7 +42,7 @@ I am a highly self-motivated undergraduate eagerly seeking admission to **a Ph.D
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">VLDB 2024 Under Revision</div>
+      <!-- <div class="badge">VLDB 2024, Under Revision</div> -->
       <img src='images/gptuner.png' alt="sym" width="100%">
     </div>
   </div>
@@ -58,7 +58,7 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">SIGMOD 2024 Under Revision</div>
+      <!-- <div class="badge">SIGMOD 2024, Under Revision</div> -->
       <img src='images/demo.png' alt="sym" width="100%">
     </div>
   </div>
