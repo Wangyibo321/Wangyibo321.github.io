@@ -88,36 +88,35 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
       <i>Advisors: Prof. Jianguo Wang (Purdue); Prof. Mingjie Tang (SCU)</i>
     </div>
       <div style="float: right;font-size: 16px"><i>Jan. 2024 – Jan. 2024</i></div>
-    <div style="float: right;font-size: 18px">
-      <i><strong>Research Asistant</strong></i>
-    </div>
+</div>
+<div style="float: right;font-size: 18px">
+  <i><strong>Research Asistant</strong></i>
 </div>
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization of Database with Large Language Model</strong> </div>
-    <div style="float: right;font-size: 16px"><i>Sept. 2023 – Feb. 2024</i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
       <i>Advisors: Prof. Jianguo Wang (Purdue); Prof. Mingjie Tang (SCU) </i>
     </div>
-    <div style="float: right;font-size: 18px">
-      <i><strong>Research Asistant</strong></i>
-    </div>
+    <div style="float: right;font-size: 16px"><i>Sept. 2023 – Feb. 2024</i></div>
 </div>
-
+<div style="float: right;font-size: 18px">
+  <i><strong>Research Asistant</strong></i>
+</div>
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
-    <div style="float: right;font-size: 16px"><i>Aug. 2023 – Sept. 2023</i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
       <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup)</i>
     </div>
-    <div style="float: right;font-size: 18px">
-      <i><strong>Research Asistant</strong></i>
-    </div>
+    <div style="float: right;font-size: 16px"><i>Aug. 2023 – Sept. 2023</i></div>
+</div>
+<div style="float: right;font-size: 18px">
+  <i><strong>Research Asistant</strong></i>
 </div>
 
 
