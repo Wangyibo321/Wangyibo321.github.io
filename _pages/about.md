@@ -38,6 +38,7 @@ I am a highly self-motivated undergraduate eagerly seeking admission to *a Ph.D.
 - *2021.09 - 2025.06*, Bachelor of Computer Science, College of Computer Science, Sichuan University, Chengdu, China
 
 # 📝  Publications
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -66,10 +67,10 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
   </font>
 </div>
 <div style="overflow: hidden;">
-    <div style="float: left;font-size: 12px">
+    <div style="float: left;font-size: 15px">
       <i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);</i>
     </div>
-    <div style="float: right;font-size: 15px">
+    <div style="float: right;font-size: 18px">
       <i><strong>Research Asistant</strong></i>
     </div>
 
