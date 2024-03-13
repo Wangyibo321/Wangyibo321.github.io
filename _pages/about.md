@@ -82,7 +82,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>LLM-Powered Interactive Tool to Explore and Exploit Domain Insights </strong> </div>
-    <div style="float: right;font-size: 18px"><i><strong>RA</strong></i></div>
+    <div style="float: right;font-size: 18px"><i><strong>Research Assistant</strong></i></div>
 </div>
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 15px">
