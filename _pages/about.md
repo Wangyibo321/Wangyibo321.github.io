@@ -18,10 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Yibo Wang, a junior majoring in Computer Science at College of Computer Science, Sichuan University (Chengdu, China). Currently, I am in AI-System Lab, under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/). 
+
 My research interests lie in the intersection of database management systems (DBMSs) and machine learning (ML), especially using ML/AI techniques to automate database administration/tuning to remove human impediments. 
-
-% I possess a keen interest in \textbf{Database}, \textbf{Machine Learning}, \textbf{Large Language Model}, \textbf{Optimization Algorithm} and \textbf{Graph Neural Networks}. 
-
 
 My aim is to make significant contributions to the field of self-driving DBMS through advanced research and collaborative efforts.
 
@@ -61,12 +59,12 @@ Proceedings of Very Large Data Bases Conference (VLDB), Under Revision, 2024.
 
 # 📝 Research Experiences
 <div style="overflow: hidden;">
-    <div style="float: left;">**Automated Optimization for Stream Processing Systems** </div>
-    <div style="float: right;">**Aug. 2023 – Sept. 2023**</div>
+    <div style="float: left;"><strong>Automated Optimization for Stream Processing Systems</strong> </div>
+    <div style="float: right;"><strong>Aug. 2023 – Sept. 2023</strong></div>
 </div>
 <div style="overflow: hidden;">
-    <div style="float: left;">_Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);_</div>
-    <div style="float: right;">***Research Asistant***</div>
+    <div style="float: left;"><i>Advisors: Prof. Mingjie Tang (SCU); Dr. Xiaojun Zhan (AntGroup);</i></div>
+    <div style="float: right;"><i><strong>Research Asistant</strong></i></div>
 </div>
 
 
