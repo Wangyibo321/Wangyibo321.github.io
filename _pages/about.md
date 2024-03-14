@@ -110,7 +110,7 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 - Designed and implemented **GPTuner**, a novel manual-reading database tuning system that automatically exploits domain knowledge to enhance the knob tuning process.
 - Developed a LLM-based data pipeline, a prompt ensemble algorithm, a workload-aware and training-free knob selection strategy, and a Coarse-to-Fine Bayesian Optimization Framework. 
-- Evaluated **GPTuner** under different benchmarks, metrics and DBMS. It identifies better configurations **16x** faster and achieves **30\%** performance improvement over the **best-performing** alternative.
+- Evaluated **GPTuner** under different benchmarks, metrics and DBMS. It identifies better configurations **16x** faster and achieves **30%** performance improvement over the **best-performing** alternative.
 
 
 <div style="overflow: hidden;">
