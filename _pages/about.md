@@ -27,7 +27,7 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
-- *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner]([https://www.youtube.com/watch?v=Hz5Zck-9TlA](https://dl.acm.org/doi/10.1145/3626246.3654739)) is accepted by SIGMOD, 2024 !
+- *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024 !
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024 !
 - *2024.01*: &nbsp;🎉🎉 A video demonstration of GPTuner is available on [YouTube](https://www.youtube.com/watch?v=Hz5Zck-9TlA)!
 - *2023.07*: &nbsp;🎉🎉 I become one of [IDs lab](https://ids-lab-asia.github.io/) at College of Computer Science, Sichuan University!
@@ -47,7 +47,7 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
   </div>
   <div class='paper-box-text' markdown="1">
 
-[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://arxiv.org/abs/2311.03157)
+[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
@@ -67,7 +67,7 @@ Proceedings of Very Large Data Bases Conference (VLDB), 2024.
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System](https://www.youtube.com/watch?v=Hz5Zck-9TlA)
+[A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System](https://dl.acm.org/doi/10.1145/3626246.3654739)
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
 
