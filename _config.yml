@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yibo Wang"
-description              : "An undergraduate student interested in Database, Machine Learning, Large Language Model, AI4DB."
+description              : "An undergraduate student interested in Database and Machine Learning."
 repository               : "ignite-abd/ignite-abd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wangyibo2@stu.scu.edu.cn"
+  email            : "wangyb0520@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
