@@ -25,12 +25,12 @@ My aim is to make significant contributions to the field of self-driving DBMS th
 
 I am a highly self-motivated undergraduate eagerly looking for **US PhD opportunities (Fall 2025)**.
 
-*Email*: *wangyb0520@gmail.com*
+*Email*: *wangyb0520[at]gmail[dot]com*
 
 
 
 # 🔥 News
-- *2024.8*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
+- *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner]([https://www.youtube.com/watch?v=Hz5Zck-9TlA](https://dl.acm.org/doi/10.1145/3626246.3654739)) is accepted by SIGMOD, 2024 !
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024 !
 - *2024.01*: &nbsp;🎉🎉 A video demonstration of GPTuner is available on [YouTube](https://www.youtube.com/watch?v=Hz5Zck-9TlA)!
