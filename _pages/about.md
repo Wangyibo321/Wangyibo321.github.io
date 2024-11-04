@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yibo Wang, a senior student majoring in Computer Science at College of Computer Science, Sichuan University (Chengdu, China). Currently, I am in [IDs lab](https://ids-lab-asia.github.io/), under the supervision of [Prof. Mingjie Tang](http://merlintang.github.io/) (SCU) and [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) (Purdue). 
+I am Yibo Wang, a senior student majoring in Computer Science at College of Computer Science, Sichuan University (Chengdu, China). Currently, I am fortunate to be advised by Professor [Prof. Mingjie Tang](http://merlintang.github.io/) and Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) from [Purdue University](https://www.purdue.edu/), focusing on utilizing ML/AI techniques to optimize database performance.
 
-My research interests lie in the intersection of database management systems (DBMSs) and machine learning (ML), especially using ML/AI techniques to automate database administration/tuning to remove human impediments. 
-
-My aim is to make significant contributions to the field of self-driving DBMS through advanced research and collaborative efforts.
-
-I am a highly self-motivated undergraduate eagerly looking for **US PhD opportunities (Fall 2025)**.
+I am a highly self-motivated undergraduate eagerly looking for **PhD opportunities (Fall 2025) in the US**.
 
 *Email*: *wangyb0520[at]gmail[dot]com*
 
