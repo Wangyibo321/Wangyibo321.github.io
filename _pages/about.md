@@ -91,9 +91,6 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 
 - Developed **WAter**, an adaptive knob tuning framework that uses runtime-profile to significantly reduce benchmark evaluation costs by only selecting SQL subsets to evaluate at different time slices.
 - Proposed a runtime-statistics-based *representativity* metric to continually refine subset, a history reuse method to achieve efficient subset tuning, and a hybrid scoring mechanism to choose the most promising configurations to evaluate.
-<!-- - Proposed a novel greedy algorithm to optimize a runtime-statistics-based representativity metric, continually refining the subset as the optimization proceeds.
-- Developed a new history reuse mechanism to achieve efficient subset tuning, mitigating the overheads of switching between tuning different subsets.
-- Proposed a hybrid scoring method to prune, score and rank configurations, evaluating only the most promising configurations to achieve minimum overheads. -->
 - Evaluated **WAter** under four OLAP workloads, it identifies better configurations with up to **73.5%** less tuning time, achieving up to **16.2%** better performance than the **best-performing** alternative.
 - Outcomes: a research paper submitted to **SIGMOD** 2025, and an upcoming project to be open-sourced.
 
