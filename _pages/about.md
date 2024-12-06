@@ -76,6 +76,24 @@ Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">In Submission</div> 
+      <img src='images/water.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[WAter: A Workload-Adaptive Knob Tuning System](https://wangyibo321.github.io/assets/WAter.pdf)
+
+**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
+
+In Submission.
+  </div>
+</div>
+
+
 # 📝 Research
 
 <div style="overflow: hidden;">
