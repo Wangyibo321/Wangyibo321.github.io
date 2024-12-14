@@ -53,6 +53,7 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+
 <span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
   </div>
 </div>
