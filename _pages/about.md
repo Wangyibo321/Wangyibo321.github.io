@@ -26,6 +26,7 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <span style="color:red; font-weight:bold;">SIGMOD Research Highlights Awards</span>!
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024 !
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024 !
@@ -52,7 +53,7 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 Proceedings of Very Large Data Bases Conference (VLDB), 2024.
-
+<span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
   </div>
 </div>
 
