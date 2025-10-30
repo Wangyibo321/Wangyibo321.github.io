@@ -16,17 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am Yibo Wang, a senior student majoring in Computer Science at College of Computer Science, Sichuan University (Chengdu, China). Currently, I am fortunate to be advised by Professor [Prof. Mingjie Tang](http://merlintang.github.io/) and Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/) from [Purdue University](https://www.purdue.edu/), focusing on utilizing ML/AI techniques to optimize database performance.
-
-I am a highly self-motivated undergraduate eagerly looking for **PhD opportunities (Fall 2025) in the US**.
-
-*Email*: *wangyb0520[at]gmail[dot]com*
+I am Yibo Wang, a PhD student in Computer Science at Purdue University advised by Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). My current research focuses on enhancing the efficiency and usability of vector databases using machine learning techniques. I received my Bachelor's degree from Sichuan University, where I worked with Professor [Mingjie Tang](http://merlintang.github.io/) on applying advanced AI techniques to optimize database performance.
 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <span style="color:red; font-weight:bold;">SIGMOD Research Highlights Awards</span>!
+- *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026</span>!
+- *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University</span>!
+- *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <span style="color:red; font-weight:bold;">[SIGMOD Research Highlights Awards](https://sigmod.org/sigmod-awards/sigmod-research-highlights/)</span>!
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024 !
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024 !
@@ -34,7 +31,8 @@ I am a highly self-motivated undergraduate eagerly looking for **PhD opportuniti
 - *2023.07*: &nbsp;🎉🎉 I become one of [IDs lab](https://ids-lab-asia.github.io/) at College of Computer Science, Sichuan University!
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Bachelor of Computer Science, College of Computer Science, Sichuan University, Chengdu, China
+- *2025.08 - Present*, PhD Student of Computer Science, Purdue University
+- *2021.09 - 2025.06*, Bachelor of Computer Science, Sichuan University
 
 # 📝 Publications
 
