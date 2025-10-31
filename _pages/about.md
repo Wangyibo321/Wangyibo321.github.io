@@ -41,7 +41,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Revision</div>
-      <img src='images/gptuner.png' alt="sym" width="100%">
+      <img src='images/quite.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
