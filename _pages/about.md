@@ -130,12 +130,19 @@ Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan C
 
 Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
-  <a href="https://example.com/paper.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <a href="https://dl.acm.org/doi/10.1145/3626246.3654739" class="paper-link" title="PDF" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf"></i>
-  </a> PDF
-    <a href="https://youtube.com/yourvideo" class="paper-link" title="Video" target="_blank" rel="noopener">
+    <span class="paper-link-label">PDF</span>
+  </a> 
+
+  <a href="https://github.com/SolidLao/GPTuner" class="paper-link" title="Project" target="_blank" rel="noopener">
+    <i class="fas fa-code"></i>
+    <span class="paper-link-label">Code</span>
+  </a>
+  <a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
     <i class="fab fa-youtube"></i>
-  </a> Video
+    <span class="paper-link-label">Video</span>
+  </a>
   </div>
 </div>
 
