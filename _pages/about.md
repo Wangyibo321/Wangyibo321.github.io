@@ -125,7 +125,7 @@ Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, W
 </a>&nbsp;
 <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fas fa-award" aria-hidden="true"></i>
-  <span class="badge-text"><Award/span>
+  <span class="badge-text">Award</span>
 </a>
 
   </div>
@@ -257,3 +257,7 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 - Evaluated **GPTuner** under different benchmarks, metrics and DBMS. It identifies better configurations **16x** faster and achieves **30%** performance improvement over the **best-performing** alternative.
 - Outcomes: a research paper accepted by **VLDB** 2024.
  -->
+
+# Services
+
+- Reviewer \- TKDE [2025]
