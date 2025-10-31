@@ -101,7 +101,7 @@ In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Sigmod Record 2025</div>
+      <div class="badge">SIGMOD Record 2025</div>
       <img src='images/gptuner.png' alt="sym" width="100%">
     </div>
   </div>
