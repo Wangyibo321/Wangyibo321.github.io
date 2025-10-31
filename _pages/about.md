@@ -130,17 +130,12 @@ Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan C
 
 Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
-<div class="pub-links">
-  <a class="pub-link" href="/assets/WAter.pdf" title="PDF" target="_blank" rel="noopener">
-    <i class="fa-solid fa-file-pdf"></i>
-  </a>
-  <a class="pub-link" href="https://github.com/your/repo" title="Project" target="_blank" rel="noopener">
-    <i class="fa-solid fa-globe"></i>
-  </a>
-  <a class="pub-link" href="https://www.youtube.com/watch?v=xxxx" title="Video" target="_blank" rel="noopener">
-    <i class="fa-solid fa-video"></i>
-  </a>
-</div>
+  <a href="https://example.com/paper.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf"></i>
+  </a> PDF
+    <a href="https://youtube.com/yourvideo" class="paper-link" title="Video" target="_blank" rel="noopener">
+    <i class="fab fa-youtube"></i>
+  </a> Video
   </div>
 </div>
 
