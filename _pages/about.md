@@ -21,7 +21,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 
 
-# 🔥 News
+# News
 - *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026!
 - *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
 - *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <span style="color:red; font-weight:bold;">[SIGMOD Research Highlights Awards](https://sigmod.org/sigmod-awards/sigmod-research-highlights/)</span>!
@@ -31,11 +31,11 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 - *2024.01*: &nbsp;🎉🎉 A video demonstration of GPTuner is available on [YouTube](https://www.youtube.com/watch?v=Hz5Zck-9TlA)!
 - *2023.07*: &nbsp;🎉🎉 I become one of [IDs lab](https://ids-lab-asia.github.io/) at College of Computer Science, Sichuan University!
 
-# 📖 Educations
+# Educations
 - *2025.08 - Present*, PhD Student of Computer Science, Purdue University
 - *2021.09 - 2025.06*, Bachelor of Computer Science, Sichuan University
 
-# 📝 Publications
+# Publications
 
 
 <div class='paper-box'>
@@ -123,10 +123,10 @@ Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, W
   <i class="fab fa-youtube"></i>
   <span class="paper-link-label">Video</span>
 </a>&nbsp;
-<a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
+<!-- <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fas fa-award" aria-hidden="true"></i>
   <span class="badge-text">Award</span>
-</a>
+</a> -->
 
   </div>
 </div>
@@ -161,7 +161,7 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2024.
   <i class="fab fa-youtube"></i>
   <span class="paper-link-label">Video</span>
 </a>&nbsp;
-<a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
+<a href="https://sigmodrecord.org/publications/sigmodRecord/2503/pdfs/02_editor_notes.pdf" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fas fa-award" aria-hidden="true"></i>
   <span class="badge-text">Award</span>
 </a>
@@ -258,8 +258,13 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 - Outcomes: a research paper accepted by **VLDB** 2024.
  -->
 
-# Services
+# Awards
 
+- <a href="https://sigmodrecord.org/publications/sigmodRecord/2503/pdfs/02_editor_notes.pdf" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <span class="paper-link-label">SIGMOD Research Highlight Award 2024</span>
+</a>
+
+# Services
 - Reviewer \- TKDE [2025]
 - Reviewer \- Information Systems [2025]
 - External Reviewer \- VLDB [2024][2025]
