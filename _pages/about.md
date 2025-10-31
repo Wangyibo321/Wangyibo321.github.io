@@ -24,7 +24,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 # News
 - *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026!
 - *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
-- *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" style="color:red; font-weight:700;">SIGMOD Research Highlights Awards</a>!
+- *2024.12*: &nbsp;🎉🎉 GPTuner wins <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" style="color:red; font-weight:700;">SIGMOD Research Highlight Award</a>!
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024 !
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024 !
