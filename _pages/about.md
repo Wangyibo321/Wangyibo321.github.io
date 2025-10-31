@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 I am Yibo Wang, a PhD student in Computer Science at Purdue University advised by Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). My current research focuses on enhancing the efficiency and usability of vector databases using machine learning techniques. I received my Bachelor's degree from Sichuan University, where I worked with Professor [Mingjie Tang](http://merlintang.github.io/) on applying advanced AI techniques to optimize database performance.
 
@@ -131,11 +132,17 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
   </div>
 </div>
 
+<div class="paper-box-links" aria-hidden="false">
+  <!-- Font Awesome v5 示例（如果站点使用 v5） -->
+  <a href="https://example.com/paper.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf"></i>
+  </a>
+
+</div>
 
 
 
-
-# 📝 Research
+<!-- # 📝 Research
 
 <div style="overflow: hidden;">
     <div style="float: left;font-size: 18px"><strong>Runtime-Efficient Adaptive Knob Tuning System</strong> </div>
@@ -187,4 +194,4 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 - Developed a LLM-based data pipeline, a prompt ensemble algorithm, a workload-aware and training-free knob selection strategy, and a Coarse-to-Fine Bayesian Optimization Framework. 
 - Evaluated **GPTuner** under different benchmarks, metrics and DBMS. It identifies better configurations **16x** faster and achieves **30%** performance improvement over the **best-performing** alternative.
 - Outcomes: a research paper accepted by **VLDB** 2024.
-
+ -->
