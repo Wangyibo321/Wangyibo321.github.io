@@ -36,6 +36,27 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 # 📝 Publications
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Revision</div>
+      <img src='images/gptuner.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/pdf/2506.07675)
+
+Yuyang Song, Hanxu Yan, Jiale Lao, **Yibo Wang**, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
+
+Under revision forProceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+
+  </div>
+</div>
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -68,25 +89,6 @@ In Submission to Proceedings of ACM Conference on Management of Data (SIGMOD), 2
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 SIGMOD Record, 2025.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">VLDB 2024</div>
-      <img src='images/gptuner.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
-
-Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
-
-Proceedings of Very Large Data Bases Conference (VLDB), 2024.
-
-<span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
   </div>
 </div>
 
