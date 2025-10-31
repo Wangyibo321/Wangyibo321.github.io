@@ -50,7 +50,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 Yuyang Song, Hanxu Yan, Jiale Lao, **Yibo Wang**, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
-Under revision forProceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
 
   </div>
 </div>
@@ -70,7 +70,7 @@ Under revision forProceedings of ACM Conference on Management of Data (SIGMOD), 
 
 **Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
-In Submission to Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
   </div>
 </div>
 
@@ -88,7 +88,7 @@ In Submission to Proceedings of ACM Conference on Management of Data (SIGMOD), 2
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
-SIGMOD Record, 2025.
+**SIGMOD Record**, 2025.
   </div>
 </div>
 
@@ -106,7 +106,7 @@ SIGMOD Record, 2025.
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
-Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+Proceedings of Very Large Data Bases Conference (**VLDB**), 2024.
 
 <span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
   </div>
@@ -127,7 +127,7 @@ Proceedings of Very Large Data Bases Conference (VLDB), 2024.
 
 Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
 
-Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
+Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
   </div>
 </div>
 
