@@ -4,23 +4,23 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Awards"
-    url: "/#-awards"
+    url: "/#awards"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#services"
 
   - title: "Teaching"
-    url: "/#-teaching"
-    
+    url: "/#teaching"
+
   # - title: "Experiences"
   #   url: "/#-experiences"
 
