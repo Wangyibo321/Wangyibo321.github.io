@@ -83,7 +83,6 @@ Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD
 
 In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
 
-
 <a href="https://wangyibo321.github.io/assets/WAter.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf"></i>
   <span class="paper-link-label">PDF</span>
@@ -92,7 +91,6 @@ In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**
   <i class="fas fa-code"></i>
   <span class="paper-link-label">Code</span>
 </a>&nbsp;
-
 
   </div>
 </div>
@@ -124,10 +122,10 @@ Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, W
 <a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fab fa-youtube"></i>
   <span class="paper-link-label">Video</span>
-</a>
+</a>&nbsp;
 <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fas fa-award" aria-hidden="true"></i>
-  <span class="badge-text">Award/span>
+  <span class="badge-text"><Award/span>
 </a>
 
   </div>
@@ -162,10 +160,10 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2024.
 <a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fab fa-youtube"></i>
   <span class="paper-link-label">Video</span>
-</a>
+</a>&nbsp;
 <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
   <i class="fas fa-award" aria-hidden="true"></i>
-  <span class="badge-text">Award/span>
+  <span class="badge-text">Award</span>
 </a>
 
   </div>
