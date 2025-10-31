@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yibo Wang"
-description              : "An undergraduate student interested in Database and Machine Learning."
+description              : "Ph.D. Student in Computer Science at Purdue University"
 repository               : "Wangyibo321/Wangyibo321.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yibo Wang"
   avatar           : "images/figure.jpg"
-  bio              : "Sichuan University"
-  location         : "Chengdu, China"
+  bio              : "Purdue University"
+  location         : "West Lafayette, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=urHJ-ZoAAAAJ"
-  email            : "wangyb0520@gmail.com"
+  email            : "wang7342@purdue.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

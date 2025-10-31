@@ -21,8 +21,8 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026</span>!
-- *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University</span>!
+- *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026!
+- *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
 - *2024.12*: &nbsp;🎉🎉 GPTuner is selected for the <span style="color:red; font-weight:bold;">[SIGMOD Research Highlights Awards](https://sigmod.org/sigmod-awards/sigmod-research-highlights/)</span>!
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at [VLDB 2024](https://vldb.org/2024/) !
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024 !
@@ -35,6 +35,60 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 - *2021.09 - 2025.06*, Bachelor of Computer Science, Sichuan University
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">In Submission</div> 
+      <img src='images/water.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[WAter: A Workload-Adaptive Knob Tuning System](https://wangyibo321.github.io/assets/WAter.pdf)
+
+**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
+
+In Submission to Proceedings of ACM Conference on Management of Data (SIGMOD), 2026.
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Sigmod Record 2025</div>
+      <img src='images/gptuner.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[GPTuner: An LLM-Based Database Tuning System](https://dl.acm.org/doi/pdf/10.1145/3733620.3733641)
+
+Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
+
+SIGMOD Record, 2025.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">VLDB 2024</div>
+      <img src='images/gptuner.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
+
+Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
+
+Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+
+<span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
+  </div>
+</div>
 
 
 <div class='paper-box'>
@@ -69,29 +123,14 @@ Proceedings of Very Large Data Bases Conference (VLDB), 2024.
 
 [A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System](https://dl.acm.org/doi/10.1145/3626246.3654739)
 
-Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
+Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
 
 Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
   </div>
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">In Submission</div> 
-      <img src='images/water.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[WAter: A Workload-Adaptive Knob Tuning System](https://wangyibo321.github.io/assets/WAter.pdf)
-
-**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
-
-In Submission.
-  </div>
-</div>
 
 
 # 📝 Research
