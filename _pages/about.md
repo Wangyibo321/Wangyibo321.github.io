@@ -129,15 +129,14 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2024.
 Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Yuanchun Zhou, Mingjie Tang, Jianguo Wang
 
 Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
-  </div>
-</div>
 
-<div class="paper-box-links" aria-hidden="false">
-  <!-- Font Awesome v5 示例（如果站点使用 v5） -->
   <a href="https://example.com/paper.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf"></i>
   </a>
-
+    <a href="https://youtube.com/yourvideo" class="paper-link" title="Video" target="_blank" rel="noopener">
+    <i class="fab fa-youtube"></i>
+  </a>
+  </div>
 </div>
 
 
