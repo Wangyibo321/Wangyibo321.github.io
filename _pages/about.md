@@ -22,6 +22,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 
 # News
+<span class='anchor' id='news'></span>
 - *2025.10*: &nbsp;🎉🎉 QUITE is under revision of SIGMOD 2026!
 - *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
 - *2024.12*: &nbsp;🎉🎉 GPTuner wins <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" style="color:red; font-weight:700;">SIGMOD Research Highlight Award</a>!
@@ -32,11 +33,12 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 - *2023.07*: &nbsp;🎉🎉 I become one of [IDs lab](https://ids-lab-asia.github.io/) at College of Computer Science, Sichuan University!
 
 # Educations
+<span class='anchor' id='educations'></span>
 - *2025.08 - Present*, PhD Student of Computer Science, Purdue University
 - *2021.09 - 2025.06*, Bachelor of Computer Science, Sichuan University
 
 # Publications
-
+<span class='anchor' id='publications'></span>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -259,16 +261,19 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
  -->
 
 # Awards
+<span class='anchor' id='awards'></span>
 
 - <a href="https://sigmodrecord.org/publications/sigmodRecord/2503/pdfs/02_editor_notes.pdf" class="paper-link" title="Video" target="_blank" rel="noopener">
   <span class="paper-link-label">SIGMOD Research Highlight Award 2024</span>
 </a>
 
 # Services
+<span class='anchor' id='services'></span>
 - Reviewer \- TKDE [2025]
 - Reviewer \- Information Systems [2025]
 - External Reviewer \- VLDB [2024][2025]
 - External Reviewer \- ICDE [2024]
 
 # Teaching
+<span class='anchor' id='teaching'></span>
 - Teaching Asistant \- Purdue CS348 Information Systems [Fall 2025]
