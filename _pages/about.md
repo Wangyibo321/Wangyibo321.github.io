@@ -261,3 +261,9 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 # Services
 
 - Reviewer \- TKDE [2025]
+- Reviewer \- Information Systems [2025]
+- External Reviewer \- VLDB [2024][2025]
+- External Reviewer \- ICDE [2024]
+
+# Teaching
+- Teaching Asistant \- Purdue CS348 Information Systems [Fall 2025]
