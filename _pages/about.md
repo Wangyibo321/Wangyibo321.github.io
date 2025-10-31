@@ -53,6 +53,16 @@ Yuyang Song, Hanxu Yan, Jiale Lao, **Yibo Wang**, Yuanchun Zhou, Jianguo Wang, M
 
 Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
 
+<a href="https://arxiv.org/pdf/2506.07675" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://anonymous.4open.science/r/QUITE-758D" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+
+
   </div>
 </div>
 
@@ -72,6 +82,18 @@ Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD
 **Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
 In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
+
+
+<a href="https://wangyibo321.github.io/assets/WAter.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://anonymous.4open.science/r/WAter-1BDD/" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+
+
   </div>
 </div>
 
@@ -90,6 +112,24 @@ In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 **SIGMOD Record**, 2025.
+
+<a href="https://dl.acm.org/doi/pdf/10.1145/3733620.3733641" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/SolidLao/GPTuner" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+<a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <i class="fab fa-youtube"></i>
+  <span class="paper-link-label">Video</span>
+</a>
+<a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <i class="fas fa-award" aria-hidden="true"></i>
+  <span class="badge-text">Award/span>
+</a>
+
   </div>
 </div>
 
@@ -103,13 +143,31 @@ Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, W
   </div>
   <div class='paper-box-text' markdown="1">
 
-[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://vldb.org/pvldb/vol17/p1939-tang.pdf)
+[GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian](https://dl.acm.org/doi/10.14778/3659437.3659449)
 
 Jiale Lao, **Yibo Wang**, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Chen, Wanghu Chen, Mingjie Tang, Jianguo Wang
 
 Proceedings of Very Large Data Bases Conference (**VLDB**), 2024.
 
 <span style="color:red; font-weight:bold;">Selected as SIGMOD Research Highlight</span>
+
+<a href="https://vldb.org/pvldb/vol17/p1939-tang.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/SolidLao/GPTuner" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+<a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <i class="fab fa-youtube"></i>
+  <span class="paper-link-label">Video</span>
+</a>
+<a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <i class="fas fa-award" aria-hidden="true"></i>
+  <span class="badge-text">Award/span>
+</a>
+
   </div>
 </div>
 
@@ -130,18 +188,19 @@ Jiale Lao\*, **Yibo Wang\***, Yufei Li\*, Jianping Wang, Yunjia Zhang, Zhiyuan C
 
 Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
-  <a href="https://dl.acm.org/doi/10.1145/3626246.3654739" class="paper-link" title="PDF" target="_blank" rel="noopener">
-    <i class="fas fa-file-pdf"></i>
-    <span class="paper-link-label">PDF</span>
-  </a> &nbsp;
-  <a href="https://github.com/SolidLao/GPTuner" class="paper-link" title="Project" target="_blank" rel="noopener">
-    <i class="fas fa-code"></i>
-    <span class="paper-link-label">Code</span>
-  </a>&nbsp;
-  <a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
-    <i class="fab fa-youtube"></i>
-    <span class="paper-link-label">Video</span>
-  </a>
+<a href="https://dl.acm.org/doi/10.1145/3626246.3654739" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/SolidLao/GPTuner" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+<a href="https://www.youtube.com/watch?v=Hz5Zck-9TlA" class="paper-link" title="Video" target="_blank" rel="noopener">
+  <i class="fab fa-youtube"></i>
+  <span class="paper-link-label">Video</span>
+</a>
+
   </div>
 </div>
 
