@@ -23,13 +23,11 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 # News
 <span class='anchor' id='news'></span>
-- *2025.10*: &nbsp;🎉🎉 QUITE is under revision for SIGMOD 2026!
 - *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
 - *2024.12*: &nbsp;🎉🎉 GPTuner wins <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" style="color:red; font-weight:700;">SIGMOD Research Highlight Award</a>!
 - *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at VLDB 2024!
 - *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024!
 - *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024!
-- *2024.01*: &nbsp;🎉🎉 A video demonstration of GPTuner is available on [YouTube](https://www.youtube.com/watch?v=Hz5Zck-9TlA)!
 - *2023.07*: &nbsp;🎉🎉 I joined the [IDs lab](https://ids-lab-asia.github.io/) in College of Computer Science, Sichuan University!
 
 # Educations
@@ -43,7 +41,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Revision</div>
+      <div class="badge">Under Review</div>
       <img src='images/quite.png' alt="sym" width="100%">
     </div>
   </div>
@@ -53,7 +51,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 Yuyang Song, Hanxu Yan, Jiale Lao, **Yibo Wang**, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
-Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
+Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026.
 
 <a href="https://arxiv.org/pdf/2506.07675" class="paper-link" title="PDF" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf"></i>
@@ -73,7 +71,7 @@ Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">In Submission</div> 
+      <div class="badge">Under Review</div> 
       <img src='images/water.png' alt="sym" width="100%">
     </div>
   </div>
@@ -83,7 +81,7 @@ Under revision for Proceedings of ACM Conference on Management of Data (**SIGMOD
 
 **Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
-In Submission to Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2026.
+Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026.
 
 <a href="https://wangyibo321.github.io/assets/WAter.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf"></i>
@@ -270,7 +268,7 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 # Services
 <span class='anchor' id='services'></span>
 - Reviewer \- TKDE [2025]
-- Reviewer \- Information Systems [2025]
+- Reviewer \- Information Sciences [2025]
 - External Reviewer \- VLDB [2024][2025]
 - External Reviewer \- ICDE [2024]
 
