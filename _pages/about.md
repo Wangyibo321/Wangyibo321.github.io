@@ -41,6 +41,36 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review</div> 
+      <img src='images/water.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[WAter: A Workload-Adaptive Knob Tuning System](https://arxiv.org/pdf/2603.28809)
+
+**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Jianguo Wang, Mingjie Tang
+
+Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
+
+<a href="https://arxiv.org/pdf/2603.28809" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/Wangyibo321/WAter" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+
+  </div>
+</div>
+
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Under Review</div>
       <img src='images/quite.png' alt="sym" width="100%">
     </div>
@@ -51,7 +81,7 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 
 Yuyang Song, Hanxu Yan, Jiale Lao, **Yibo Wang**, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
 
-Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026.
+<!-- Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026. -->
 
 <a href="https://arxiv.org/pdf/2506.07675" class="paper-link" title="PDF" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf"></i>
@@ -67,33 +97,6 @@ Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026
 </div>
 
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div> 
-      <img src='images/water.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[WAter: A Workload-Adaptive Knob Tuning System](https://wangyibo321.github.io/assets/WAter.pdf)
-
-**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Yuanchun Zhou, Jianguo Wang, Mingjie Tang
-
-Under review at Proceedings of Very Large Data Bases Conference (**VLDB**), 2026.
-
-<a href="https://wangyibo321.github.io/assets/WAter.pdf" class="paper-link" title="PDF" target="_blank" rel="noopener">
-  <i class="fas fa-file-pdf"></i>
-  <span class="paper-link-label">PDF</span>
-</a> &nbsp;
-<a href="https://anonymous.4open.science/r/WAter-1BDD/" class="paper-link" title="Project" target="_blank" rel="noopener">
-  <i class="fas fa-code"></i>
-  <span class="paper-link-label">Code</span>
-</a>&nbsp;
-
-  </div>
-</div>
 
 
 <div class='paper-box'>
