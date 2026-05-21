@@ -289,7 +289,7 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
 # Services
 <span class='anchor' id='services'></span>
-- Program Committee \– CIKM [2026]
+- Program Committee \- CIKM [2026]
 - Reviewer \- TKDE [2025]
 - Reviewer \- Information Sciences [2025]
 
