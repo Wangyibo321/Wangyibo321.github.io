@@ -20,16 +20,6 @@ redirect_from:
 I am Yibo Wang, a PhD student in Computer Science at Purdue University advised by Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). My current research focuses on enhancing the efficiency and usability of vector databases using machine learning techniques. I received my Bachelor's degree from Sichuan University, where I worked with Professor [Mingjie Tang](http://merlintang.github.io/) on applying advanced AI techniques to optimize database performance.
 
 
-
-# News
-<span class='anchor' id='news'></span>
-- *2025.08*: &nbsp;🎉🎉 I am thrilled to begin my PhD journey at Purdue University!
-- *2024.12*: &nbsp;🎉🎉 GPTuner wins <a href="https://sigmod.org/sigmod-awards/sigmod-research-highlights/" style="color:red; font-weight:700;">SIGMOD Research Highlight Award</a>!
-- *2024.08*: &nbsp;🎉🎉 I presented [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) at VLDB 2024!
-- *2024.03*: &nbsp;🎉🎉 [Demo of GPTuner](https://dl.acm.org/doi/10.1145/3626246.3654739) is accepted by SIGMOD, 2024!
-- *2024.03*: &nbsp;🎉🎉 [GPTuner](https://vldb.org/pvldb/vol17/p1939-tang.pdf) is accepted by VLDB, 2024!
-- *2023.07*: &nbsp;🎉🎉 I joined the [IDs lab](https://ids-lab-asia.github.io/) in College of Computer Science, Sichuan University!
-
 # Educations
 <span class='anchor' id='educations'></span>
 - *2025.08 - Present*, PhD Student of Computer Science, Purdue University
@@ -299,11 +289,10 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
 # Services
 <span class='anchor' id='services'></span>
+- Program Committee \– CIKM [2026]
 - Reviewer \- TKDE [2025]
 - Reviewer \- Information Sciences [2025]
-- External Reviewer \- VLDB [2024][2025]
-- External Reviewer \- ICDE [2024]
 
 # Teaching
 <span class='anchor' id='teaching'></span>
-- Teaching Assistant \- Purdue CS348 Information Systems [Fall 2025]
+- Teaching Assistant \- Purdue CS348 Information Systems [Fall 2025][Spring 2026]
