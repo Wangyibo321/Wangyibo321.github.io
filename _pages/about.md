@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am Yibo Wang, a PhD student in Computer Science at Purdue University advised by Professor [Jianguo Wang](https://www.cs.purdue.edu/homes/csjgwang/). My current research focuses on enhancing the efficiency and usability of vector databases using machine learning techniques. I received my Bachelor's degree from Sichuan University, where I worked with Professor [Mingjie Tang](http://merlintang.github.io/) on applying advanced AI techniques to optimize database performance.
+I am Yibo Wang, a PhD student in Computer Science at Purdue University advised by Professor [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). I received my Bachelor's degree from Sichuan University, where I worked with Professor [Mingjie Tang](http://merlintang.github.io/) on applying advanced AI techniques to optimize database performance.
 
 
 # Educations
