@@ -28,6 +28,38 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 # Publications
 <span class='anchor' id='publications'></span>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">VLDB 2027</div> 
+      <img src='images/black_hole.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Can You Trust the Vectors in Your Vector Database? Black-Hole Attack from Embedding Space Defects](https://arxiv.org/pdf/2604.05480)
+
+Hanxi Li, Jianan Zhou, Jiale Lao, **Yibo Wang**, Zhengmao Ye, Yang Cao, Junfen Wang, Mingjie Tang
+
+Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
+
+<a href="https://arxiv.org/pdf/2604.05480" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/hanxi19/Black_Hole_Attack_for_Vector_Database" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+
+  </div>
+</div>
+
+
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -55,33 +87,6 @@ Under revision at Proceedings of Very Large Data Bases Conference (**VLDB**), 20
   </div>
 </div>
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Revision</div> 
-      <img src='images/black_hole.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[Can You Trust the Vectors in Your Vector Database? Black-Hole Attack from Embedding Space Defects](https://arxiv.org/pdf/2604.05480)
-
-Hanxi Li, Jianan Zhou, Jiale Lao, **Yibo Wang**, Zhengmao Ye, Yang Cao, Junfen Wang, Mingjie Tang
-
-Under revision at Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
-
-<a href="https://arxiv.org/pdf/2604.05480" class="paper-link" title="PDF" target="_blank" rel="noopener">
-  <i class="fas fa-file-pdf"></i>
-  <span class="paper-link-label">PDF</span>
-</a> &nbsp;
-<a href="https://github.com/hanxi19/Black_Hole_Attack_for_Vector_Database" class="paper-link" title="Project" target="_blank" rel="noopener">
-  <i class="fas fa-code"></i>
-  <span class="paper-link-label">Code</span>
-</a>&nbsp;
-
-  </div>
-</div>
 
 
 
