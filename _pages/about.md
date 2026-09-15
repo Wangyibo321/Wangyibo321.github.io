@@ -29,6 +29,36 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 <span class='anchor' id='publications'></span>
 
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">VLDB 2027</div> 
+      <img src='images/water.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[WAter: A Workload-Adaptive Knob Tuning System](https://arxiv.org/pdf/2603.28809)
+
+**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Jianguo Wang, Mingjie Tang
+
+Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
+
+<a href="https://arxiv.org/pdf/2603.28809" class="paper-link" title="PDF" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf"></i>
+  <span class="paper-link-label">PDF</span>
+</a> &nbsp;
+<a href="https://github.com/Wangyibo321/WAter" class="paper-link" title="Project" target="_blank" rel="noopener">
+  <i class="fas fa-code"></i>
+  <span class="paper-link-label">Code</span>
+</a>&nbsp;
+
+  </div>
+</div>
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -59,33 +89,6 @@ Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
 
 
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Revision</div> 
-      <img src='images/water.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[WAter: A Workload-Adaptive Knob Tuning System](https://arxiv.org/pdf/2603.28809)
-
-**Yibo Wang**, Jiale Lao, Chen Zhang, Cehua Yang, Jianguo Wang, Mingjie Tang
-
-Under revision at Proceedings of Very Large Data Bases Conference (**VLDB**), 2027.
-
-<a href="https://arxiv.org/pdf/2603.28809" class="paper-link" title="PDF" target="_blank" rel="noopener">
-  <i class="fas fa-file-pdf"></i>
-  <span class="paper-link-label">PDF</span>
-</a> &nbsp;
-<a href="https://github.com/Wangyibo321/WAter" class="paper-link" title="Project" target="_blank" rel="noopener">
-  <i class="fas fa-code"></i>
-  <span class="paper-link-label">Code</span>
-</a>&nbsp;
-
-  </div>
-</div>
 
 
 
