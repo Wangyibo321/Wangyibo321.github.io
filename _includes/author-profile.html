@@ -8,6 +8,13 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
+  <div class="author__cv-wrapper">
+    <a class="btn btn--info author__cv" href="{{ '/assets/CV_Yibo_Wang.pdf' | relative_url }}" download="CV_Yibo_Wang.pdf">
+      <i class="fas fa-file-pdf" aria-hidden="true"></i>
+      <span>Download CV</span>
+    </a>
+  </div>
+
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}

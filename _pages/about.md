@@ -25,6 +25,13 @@ I am Yibo Wang, a PhD student in Computer Science at Purdue University advised b
 - *2025.08 - Present*, PhD Student of Computer Science, Purdue University
 - *2021.09 - 2025.06*, Bachelor of Computer Science, Sichuan University
 
+# Work Experience
+
+**Hewlett Packard Enterprise (HPE) Labs**, Milpitas, CA<br>
+*Research Associate Intern | May 2026 - Aug. 2026*
+
+- Built an interactive benchmark for evaluating AI agents on resolving network incidents.
+
 # Publications
 <span class='anchor' id='publications'></span>
 
@@ -303,4 +310,4 @@ Proceedings of ACM Conference on Management of Data (**SIGMOD**), 2024.
 
 # Teaching
 <span class='anchor' id='teaching'></span>
-- Teaching Assistant \- Purdue CS348 Information Systems [Fall 2025][Spring 2026]
+- Teaching Assistant \- Purdue CS348 Information Systems [Fall 2025][Spring 2026][Fall 2026]

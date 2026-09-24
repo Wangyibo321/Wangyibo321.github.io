@@ -73,6 +73,7 @@
     display: block;
   }
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
@@ -100,6 +101,31 @@
       padding: 5px;
       border: 1px solid $border-color;
     }
+  }
+}
+
+.author__cv-wrapper {
+  order: 1;
+  width: 100%;
+  margin-top: 0.75em;
+
+  @include breakpoint($large) {
+    margin-bottom: 0.75em;
+  }
+}
+
+.author__cv {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  width: 175px;
+  max-width: 100%;
+  min-height: 44px;
+
+  &:focus-visible {
+    outline: 2px solid $link-color;
+    outline-offset: 3px;
   }
 }
 
